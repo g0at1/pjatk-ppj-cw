@@ -17,6 +17,6 @@ public class Main {
 //        Osoba najstarsza = Osoba.zwrocNajstarszaOsobe(tab);
 //        najstarsza.show();
 
-
+        System.out.println("test");
     }
 }
