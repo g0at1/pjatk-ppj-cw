@@ -1,4 +1,4 @@
-package cwiczenia.ppj21;
+package cwiczenia.c21;
 
 public class Main {
     public static void main(String[] args) {
