@@ -1,3 +1,5 @@
+package cwiczenia.c08;
+
 import java.util.Scanner;
 
 public class cwiczenie8 {
